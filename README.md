@@ -1,7 +1,7 @@
-## Kaggle-Zomato-Dataset
+# Kaggle-Zomato-Dataset
 
 
-# Introduction
+## Introduction
 Bangalore(officially known as Bengaluru) is the capital and largest city of the Indian state of Karnataka.
 With a population of over 15 million, Bangalore is the third largest city in India and 27th largest city in the world.
 Bangalore is one of the most ethnically diverse cities in the country, with over 51% of the city’s population being migrants from other parts of India.
@@ -14,7 +14,7 @@ The food industry is always at a rise in Bangalore, with 12,000 plus restaurants
 The growing number of restaurants and dishes in Bangalore is what attracts me to inspect the data to get some insights, some interesting facts and figures.
 So, in this article I will be analyzing the Zomato restaurant data for the city, Bangalore.
 
-# Data
+## Data
 
 The dataset is taken from kaggle, you can find it here: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
@@ -40,3 +40,17 @@ The dataset contains the following features :
 17) listed_in(city) : contains the neighborhood in which the restaurant is located
 
 The dataset contains 51717 rows.
+
+## Processing
+
+Exploratory-Data-Analysis-and-Classification-Using-the-Zomato-Bangalore-Restaurants-Dataset
+Exploratory Data Analysis and Classification of Using the Zomato Bangalore Restaurants Dataset from Kaggle.
+In this Project , I performed Supervised Learning Algorithms and did Exploratory Data Analysis on the Zomato Bangalore Restaurants Dataset from Kaggle. This Project also Contains Detailed Documentation in PDF format. Following ML Algorithms used in this project:
+
+1) Logistic Regression
+2) Decision Tree
+3) K-Nearest Neighbors
+4) Random Forest
+5) Support Vector Machine
+6) Gradient Boosting
+7) Naive bayes
